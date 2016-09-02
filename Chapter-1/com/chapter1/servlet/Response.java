@@ -1,4 +1,4 @@
-package com.chapteri.socket;
+package com.chapter1.servlet;
 
 import java.io.File;
 import java.io.FileInputStream;

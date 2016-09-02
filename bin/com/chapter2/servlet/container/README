@@ -1,0 +1,6 @@
+每一个功能齐全的Servlet容器应该有的功能：
+1. 当第一次调用某个Servlet的时候，要载入该Servlet类，并调用其init方法（只调用一次）
+2. 针对每个request请求，创建一个javax.servlet.ServletRequest和一个javax.servletServletResponse实例
+3. 调用该Servlet的Service方法，将servletRequest和servletResponse对象做参数传入
+4. 当关闭servlet时，调用destroy方法时，并且卸载Servlet
+
