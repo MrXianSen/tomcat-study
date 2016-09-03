@@ -5,6 +5,7 @@
 	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="src" path="resource"/>
 	<classpathentry kind="src" path="Chapter2"/>
+	<classpathentry kind="src" path="Chapter3"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry exported="true" kind="lib" path="E:/myeclipse/set/plugins/com.genuitec.eclipse.j2eedt.core_11.5.0.me201311281640/data/libraryset/EE_6/javax.servlet.jar">
@@ -16,5 +17,6 @@
 	<classpathentry kind="lib" path="lib/log/log4j-1.2.16.jar"/>
 	<classpathentry kind="lib" path="lib/log/slf4j-api-1.7.15.jar"/>
 	<classpathentry kind="lib" path="lib/log/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
